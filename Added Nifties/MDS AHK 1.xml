@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<NotepadPlus>
+    <LexerStyles />-
+    <GlobalStyles>
+        <!-- Attention : Don't modify the name of styleID="0" -->
+        <WidgetStyle name="Global override" fontSize="11" fontStyle="0" fontName="Consolas" bgColor="000000" fgColor="FFFF80" styleID="0" />
+        <WidgetStyle name="Default Style" fontSize="11" fontStyle="0" fontName="Consolas" bgColor="000000" fgColor="78783C" styleID="32" />
+        <WidgetStyle name="Indent guideline style" fontSize="" fontStyle="0" fontName="" bgColor="FFFFFF" fgColor="C0C0C0" styleID="37" />
+        <WidgetStyle name="Brace highlight style" fontSize="11" fontStyle="1" fontName="Consolas" bgColor="003700" fgColor="00FF80" styleID="34" colorStyle="1" />
+        <WidgetStyle name="Bad brace colour" fontSize="" fontStyle="0" fontName="" bgColor="FF0000" fgColor="FFFFFF" styleID="35" />
+        <WidgetStyle name="Current line background colour" fontSize="" fontStyle="0" bgColor="0F0F0F" fgColor="0080C0" styleID="0" />
+        <WidgetStyle name="Selected text colour" fontStyle="0" bgColor="004000" fgColor="FF0000" styleID="0" />
+        <WidgetStyle name="Caret colour" fontStyle="0" bgColor="80FF80" fgColor="FFFFFF" styleID="2069" />
+        <WidgetStyle name="Edge colour" fontSize="" fontStyle="0" bgColor="112435" fgColor="80FFFF" styleID="0" />
+        <WidgetStyle name="Line number margin" fontSize="" fontStyle="0" fontName="" bgColor="000000" fgColor="363636" styleID="33" />
+        <WidgetStyle name="Fold" fontSize="8" fontStyle="0" bgColor="8000FF" fgColor="400080" styleID="0" />
+        <WidgetStyle name="Fold active" fontSize="8" fontStyle="0" bgColor="FF0080" fgColor="FF0000" styleID="0" />
+        <WidgetStyle name="Fold margin" fontSize="" fontStyle="0" bgColor="0A0A0A" fgColor="25004A" styleID="0" />
+        <WidgetStyle name="White space symbol" fontStyle="0" bgColor="2E3436" fgColor="FFB56A" styleID="0" />
+        <WidgetStyle name="Smart HighLighting" fontSize="" fontStyle="0" bgColor="00FF00" fgColor="FCAF3E" styleID="29" />
+        <WidgetStyle name="Find Mark Style" fontSize="10" fontStyle="0" bgColor="FF0000" fgColor="555753" styleID="31" />
+        <WidgetStyle name="Mark Style 1" fontSize="10" fontStyle="0" bgColor="00FFFF" fgColor="CC0000" styleID="25" />
+        <WidgetStyle name="Mark Style 2" fontStyle="0" bgColor="FF8000" fgColor="80D4B2" styleID="24" />
+        <WidgetStyle name="Mark Style 3" fontStyle="0" bgColor="FFFF00" fgColor="3FBA89" styleID="23" />
+        <WidgetStyle name="Mark Style 4" fontSize="10" fontStyle="0" bgColor="8000FF" fgColor="101010" styleID="22" />
+        <WidgetStyle name="Mark Style 5" fontSize="" fontStyle="0" bgColor="008000" fgColor="808080" styleID="21" />
+        <WidgetStyle name="Incremental highlight all" fontStyle="0" bgColor="0080FF" fgColor="FAAA3C" styleID="28" />
+        <WidgetStyle name="Tags match highlighting" fontStyle="0" bgColor="8000FF" fgColor="FFCAB0" styleID="27" />
+        <WidgetStyle name="Tags attribute" fontStyle="0" bgColor="FFFF00" fgColor="000000" styleID="26" />
+        <WidgetStyle name="Active tab focused indicator" fontStyle="0" bgColor="FFFF00" fgColor="FAAA3C" styleID="0" />
+        <WidgetStyle name="Active tab unfocused indicator" fontStyle="0" bgColor="FF0000" fgColor="FFCAB0" styleID="0" />
+        <WidgetStyle name="Active tab text" fontStyle="0" bgColor="80FF00" fgColor="000000" styleID="0" />
+        <WidgetStyle name="Inactive tabs" fontStyle="0" bgColor="C0C0C0" fgColor="808080" styleID="0" />
+        <WidgetStyle name="URL hovered" fontStyle="0" bgColor="C0C0C0" fgColor="0000FF" styleID="0" />
+    </GlobalStyles>
+</NotepadPlus>
